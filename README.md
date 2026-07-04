@@ -234,11 +234,11 @@ All feature screenshots are available in the [`assets/`](assets/) folder:
 
 | Name | Role |
 |------|------|
-| **Mina Samy** | Project Lead |
+| **Abdelrahman Mahmoud** | Project Lead |
 | **George Salah** | Development |
 | **Youssef Hussein** | Development |
 | **Ahmed Hassan** | Development |
-| **Abdelrahman Mahmoud** | Development |
+| **Mina Samy** | Development |
 | **Ali Essam** | Development |
 
 ---
